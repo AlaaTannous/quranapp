@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392886695606",
+    "project_id": "maher-quran",
+    "storage_bucket": "maher-quran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392886695606:android:f762928b1abfcc65c6d817",
+        "android_client_info": {
+          "package_name": "com.tannousapps.quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392886695606-k5oa98m1nnntvr6952krne04rtsia55t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCEL_QOSUGy2zjsGNK813skSraZRS8MGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392886695606-k5oa98m1nnntvr6952krne04rtsia55t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
